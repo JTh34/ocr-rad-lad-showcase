@@ -1,4 +1,4 @@
-# 🤖 OCR/LAD/RAD Intelligence Platform
+# OCR/LAD/RAD Intelligence Platform
 
 ### Advanced Multi-Agent Document Analysis System
 
@@ -42,42 +42,49 @@ AI-powered document type identification and format validation:
 
 ### 🛡️ **Stage 2: Security & Ethics Validation**
 Content guardrails ensure safe and appropriate processing:
+
 - **Risk Assessment**: Low/medium/high risk classification
 - **Content Filtering**: Blocks inappropriate or harmful content
 - **Authorization Logic**: Automated security clearance decisions
 
 ### 👁️ **Stage 3: Advanced OCR Extraction**
 Claude Vision-powered text and structure extraction:
+
 - **Visual Intelligence**: Understands layouts, tables, and document sections
 - **Structured Output**: JSON-formatted data with entities, dates, amounts
 - **Multi-page Synthesis**: Combines information across document pages
 
-### 🎯 **Stage 4: Dynamic Expectation Generation**
+### 🚨 **Stage 4: Dynamic Expectation Generation**
 Revolutionary AI-generated quality expectations:
+
 - **Document-Specific Rules**: Custom expectations based on document type
 - **Critical Field Detection**: Identifies must-have vs nice-to-have information
 - **Business Context**: Understands practical use cases and requirements
 
 ### ⚖️ **Stage 5: Parallel Quality Assessment**
 Dual evaluation system for comprehensive quality control:
+
 - **Image Quality Evaluator**: Technical assessment (resolution, clarity, OCR-readiness)
 - **Information Relevance Evaluator**: Business value assessment using dynamic expectations
 - **Real-time Scoring**: Live quality metrics with confidence levels
 
-### 🤖 **Stage 6: Flexible Supervisor Decision**
+### ⚙️ **Stage 6: Flexible Supervisor Decision**
 Intelligent quality supervision with efficiency focus:
+
 - **Adaptive Thresholds**: 60% early acceptance, 40% minimum acceptable
 - **Business Logic**: Practical decisions balancing quality vs processing time
 - **Re-extraction Control**: Maximum 2 attempts for optimal efficiency
 
-### 🔄 **Stage 7: Smart Re-processing Loop**
+### ♾️ **Stage 7: Smart Re-processing Loop**
 Automated quality improvement when needed:
+
 - **Conditional Re-extraction**: Only when quality improvements are likely
 - **Attempt Limiting**: Prevents infinite loops and ensures timely delivery
 - **Progressive Enhancement**: Each iteration builds on previous results
 
-### 📊 **Stage 8: Structured Results Generation**
+### 📝 **Stage 8: Structured Results Generation**
 Professional output formatting for immediate business use:
+
 - **Multi-format Export**: JSON, structured text, formatted reports
 - **Quality Metrics**: Transparency in confidence levels and processing details
 - **Business Intelligence**: Actionable insights and extracted key information
@@ -86,7 +93,7 @@ Professional output formatting for immediate business use:
 
 ## ✨ Core Features
 
-### 🎯 **Current Capabilities**
+### 🦾 **Current Capabilities**
 - **Multi-Agent Processing**: 8 specialized AI agents working in concert
 - **Real-time Interface**: Modern React UI with live progress updates
 - **Quality Guarantee**: Adaptive supervision ensuring business-ready results
@@ -94,14 +101,14 @@ Professional output formatting for immediate business use:
 - **Professional Output**: Structured data extraction with confidence scoring
 
 ### 📋 **Use Cases**
-✅ **Invoice Processing**: Extract amounts, dates, vendor information, line items  
-✅ **Form Digitization**: Convert paper forms to structured digital data  
-✅ **Contract Analysis**: Identify key terms, dates, parties, and obligations  
-✅ **Receipt Management**: Capture expenses, merchants, categories, and amounts  
-✅ **Identity Documents**: Extract names, dates, numbers, and addresses  
-✅ **Technical Documents**: Process manuals, specifications, and technical drawings
+- **Invoice Processing**: Extract amounts, dates, vendor information, line items  
+- **Form Digitization**: Convert paper forms to structured digital data  
+- **Contract Analysis**: Identify key terms, dates, parties, and obligations  
+- **Receipt Management**: Capture expenses, merchants, categories, and amounts  
+- **Identity Documents**: Extract names, dates, numbers, and addresses  
+- **Technical Documents**: Process manuals, specifications, and technical drawings
 
-### 🎨 **User Experience**
+### 👩🏻‍💻 **User Experience**
 - **Drag & Drop Upload**: Intuitive document submission
 - **Live Processing Updates**: Real-time progress via WebSocket connection
 - **Quality Visualization**: Interactive metrics dashboard
@@ -126,27 +133,23 @@ self.document_detector_chain = (
 
 ### **Flexible Supervision System**
 Revolutionary adaptive quality control:
+
 - **Early Acceptance**: 60% threshold for efficient processing
 - **Minimum Standards**: 40% baseline to prevent excessive re-processing
 - **Business-First Logic**: Practical decisions over perfectionism
 
 ### **Dynamic Expectations Engine**
 AI-generated document-specific validation rules:
+
 - **Context Awareness**: Understanding of document types and use cases
 - **Critical Field Detection**: Automatic identification of must-have information
 - **Quality Criteria**: Document-specific success metrics
 
 ---
 
-## 🌐 Real-Time Experience
+## 📲 Professional Output
 
-### **Live Interface Features**
-- **📊 Quality Metrics**: Real-time scoring with visual indicators
-- **💻 System Terminal**: Professional log output with technical details
-- **🔄 Progress Updates**: WebSocket-powered live status updates
-- **📈 Visual Dashboard**: Interactive charts and progress visualization
 
-### **Professional Output**
 ```
 =====================================
     DOCUMENT ANALYSIS REPORT
@@ -173,12 +176,27 @@ EXTRACTED DATA:
 
 ## 🛠️ Technology Stack
 
-- **🤖 AI Models**: Claude-3-Haiku (Vision), GPT-4o-mini (Intelligence)
-- **🔗 Orchestration**: LangGraph, LangChain LCEL
-- **⚡ Backend**: FastAPI, Python 3.8+, WebSocket
-- **🎨 Frontend**: React 18+, Modern CSS, Real-time UI
-- **📦 Deployment**: Docker, HuggingFace Spaces
-- **🔍 Processing**: PDF2Image, PIL, Multi-format support
+- **AI Models**: 
+	- Claude-3-Haiku (Vision)
+	- GPT-4o-mini (Intelligence)
+- **Orchestration**: 
+	- LangGraph
+	- LangChain 
+	- LCEL
+- **Backend**:
+	- FastAPI
+	- WebSocket
+- **Frontend**:
+	- React
+	- Modern CSS
+	- Real-time UI
+- **Deployment**: 
+	- Docker
+	- HuggingFace Spaces
+- **Processing**: 
+	- PDF2Image
+	- PIL
+	- Multi-format support
 
 ---
 
@@ -201,15 +219,7 @@ EXTRACTED DATA:
 
 ---
 
-## 🎓 Built for Professionals
-
-Created by an AI Engineer with deep expertise in document processing challenges. This platform represents months of research into multi-agent architectures, quality supervision, and real-world business requirements.
-
-**The Innovation**: Moving beyond simple OCR to intelligent document understanding with adaptive quality control—ensuring every processed document meets business standards.
-
----
-
-## 🚀 Try It Now
+## 🚀 Try It Now!
 
 Experience the future of intelligent document processing:
 
